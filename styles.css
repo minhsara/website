@@ -1,0 +1,92 @@
+body {text-align: center;
+  background: url(https://i-h1.pinimg.com/564x/40/27/22/40272260e74d764dd3fa3329b97f7157.jpg);
+  color: black;
+  font-family: monospace;
+}
+
+li {display:inline;
+padding: 0px 10px 0px 10px;
+}
+a{color: white;
+}
+ul {padding: 10px;
+  background: #6E6E6E;
+}
+header {
+background-size: cover;
+}
+img {background-position: center;
+  margin: 40px 0px 0px 0px;
+  border: 4px white;
+  border-radius: 20px;
+}
+
+h1 {font-size: 44px;
+}
+
+h2 {font-size: 22px;
+}
+
+h3 {font-size: 20px;
+  color: white;
+  font-family: monospace;
+}
+
+p {color: #424242;
+  font-family: times;
+padding: 10px}
+
+input {font-size: 18px
+padding:20px;
+border: 0;
+}
+
+input [type="submit"]
+{background: #D8D8D8;
+color: white;
+
+}
+
+
+div {
+    padding: 5px;
+    height: 100px;
+    margin:40px 0px 0px 0px;
+  }
+
+.first {
+  background: url(https://scstylecaster.files.wordpress.com/2016/04/cropped-jeans.jpg);
+  padding: 50px;
+  border-radius: 40px;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 20px;
+}
+
+.second {
+  background: url(https://scstylecaster.files.wordpress.com/2014/12/5f0a03fcb08d3c6204c6a3ca667688d3-640x426.jpg?w=412&h=257&crop=1);
+  padding: 50px;
+  border-radius: 40px;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 20px;
+}
+
+.third {
+  background: url(http://www.deliacreates.com/wp-content/uploads/2014/08/Graphic-Tees-3-of-540820.jpg);
+  padding: 50px;
+  border-radius: 40px;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: 20px;
+}
+
+p {
+
+  color: pink;
+
+  font-family: monospace;
+
+  background-color: #6E6E6E;
+}
+
